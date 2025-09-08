@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+flask
+
+pillow
+pytesseract
+opencv-python
+pdf2image
